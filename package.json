@@ -1,0 +1,24 @@
+{
+  "name": "mocha-chai-unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyamaro15/mocha-chai-unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyamaro15/mocha-chai-unit-test/issues"
+  },
+  "homepage": "https://github.com/anthonyamaro15/mocha-chai-unit-test#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
